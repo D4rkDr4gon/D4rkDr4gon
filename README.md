@@ -26,7 +26,7 @@ Soy un consultor en ciberseguridad especializado en pentesting, apasionado por e
 - Español --> Nativo
 
 ## Contáctame
-- [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/lucciano-campassi-252a18201/)
 - Correo electrónico: luccianocamp@outlook.com
 
 ## Estadísticas de GitHub
