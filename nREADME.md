@@ -8,6 +8,7 @@ Soy un consultor en ciberseguridad especializado en pentesting, apasionado por e
 ## Proyectos Destacados
 - [psswrd_project](https://github.com/D4rkDr4gon/psswrd_project): sistema de gestion de passwords en python para linux
 - [Cibertalk](https://d4rkdr4gon.github.io/CiberTalk/): pagina web donde subo distintas cosas con respecto a ciberseguridad y sistemas
+- [encriptator_project](https://github.com/D4rkDr4gon/encriptator_project): encriptador de archivos en python
 
 ## Conocimientos
 ### Seguridad
