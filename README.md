@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Tu Nombre de Usuario]
+# ¡Hola! Soy Lucciano Campassi
 
-![Imagen de perfil](URL_de_tu_imagen)
+
 
 ## Sobre mí
 Soy un consultor en ciberseguridad especializado en pentesting, apasionado por explorar las complejidades del mundo digital y asegurar sistemas contra posibles amenazas. Con una sólida base, disfruto ayudando a las organizaciones a fortalecer sus defensas cibernéticas y garantizar la seguridad de su infraestructura.
