@@ -1,4 +1,4 @@
-<a href="banner x wing.png"></a>
+<img src="banner x wing.png"/>
 <h1 align="center">Hi 👋, I'm Lucciano Campassi</h1>
 <h3 align="center">A Cybersecurity IT Consultant and a Pentester Jr.</h3>
 
