@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Psswrd_Project](https://github.com/D4rkDr4gon/psswrd_project)
 
+- my CV [Lucciano Campassi](Lucciano Campassi cv 3.0.pdf)
+
 - 🌱 I’m currently learning **Offensive Python, Docker, APIS**
 
 - 👯 I’m looking to collaborate on [Encriptator_Project](https://github.com/D4rkDr4gon/encriptator_project)
