@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Psswrd_Project](https://github.com/D4rkDr4gon/psswrd_project)
 
-- my CV [Lucciano Campassi](Lucciano Campassi cv 3.0.pdf)
+- my CV <a href="Lucciano Campassi cv 3.0.pdf">Lucciano Campassi</a>
 
 - 🌱 I’m currently learning **Offensive Python, Docker, APIS**
 
