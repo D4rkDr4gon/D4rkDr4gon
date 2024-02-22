@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **Luccianocamp@outlook.com**
 
+<a href="https://app.daily.dev/d4rkdr4g0n"><img src="https://api.daily.dev/devcards/v2/OLunAav5iBTvIOSaE2K2q.png?type=default&r=fpr" width="356" alt="lucciano campassi's Dev Card"/></a>
+
 - 📄 Know about my experiences [https://github.com/D4rkDr4gon/D4rkDr4gon/blob/main/CV.pdf](https://github.com/D4rkDr4gon/D4rkDr4gon/blob/main/CV.pdf)
 
 - ⚡ Fun fact **I Am Very Organized**
