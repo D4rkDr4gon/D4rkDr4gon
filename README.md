@@ -1,8 +1,6 @@
 <img src="banner x wing.png"/>
 <h1 align="center">Hi 👋, I'm Lucciano Campassi</h1>
 <h3 align="center">A Cybersecurity IT Consultant and a Pentester Jr.</h3>
-<br />
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rkdr4gon" alt="d4rkdr4gon" /></a> </p>
 
