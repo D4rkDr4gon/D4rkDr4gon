@@ -55,4 +55,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6543d5d84352f418f80d2130?variant=dark)](https://roadmap.sh)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4rkdr4gon&show_icons=true&locale=en" alt="d4rkdr4gon" /></p>
