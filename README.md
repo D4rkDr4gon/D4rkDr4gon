@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **Luccianocamp@outlook.com**
 
-<a href="https://app.daily.dev/d4rkdr4g0n"><img src="https://api.daily.dev/devcards/v2/OLunAav5iBTvIOSaE2K2q.png?type=default&r=fpr" width="356" alt="lucciano campassi's Dev Card"/></a>
-
 - 📄 Know about my experiences [https://github.com/D4rkDr4gon/D4rkDr4gon/blob/main/CV.pdf](https://github.com/D4rkDr4gon/D4rkDr4gon/blob/main/CV.pdf)
 
 - ⚡ Fun fact **I Am Very Organized**
@@ -54,6 +52,8 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<a href="https://app.daily.dev/d4rkdr4g0n"><img src="https://api.daily.dev/devcards/v2/OLunAav5iBTvIOSaE2K2q.png?type=default&r=fpr" width="356" alt="lucciano campassi's Dev Card"/></a>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6543d5d84352f418f80d2130?variant=dark)](https://roadmap.sh)
 
