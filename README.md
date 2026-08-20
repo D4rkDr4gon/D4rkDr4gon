@@ -1,4 +1,4 @@
-<img src="Lucciano_Campassi.webp"/>
+<img src="BANNER-LINUX.jpg"/>
 
 <h1 align="center">Lucciano Campassi</h1>
 <h3 align="center">Cybersecurity Specialist — Digital Forensics & Incident Response — Blue Team</h3>
